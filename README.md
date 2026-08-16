@@ -20,9 +20,9 @@ Choose the resume tailored to your opportunity:
 
 | Role Focus | Description | Download Link |
 | :--- | :--- | :---: |
-| 💻 **Software & AI Engineering** | Full-stack web app development, LLM pipeline design, Next.js/React stack. | [Download PDF](./Muhammad_Subhan_Software_Engineer_CV.pdf) |
-| 🎨 **Graphics & Management** | Visual strategy, agency leadership, social media growth, AI-assisted design workflows. | [Download PDF](./Muhammad_Subhan_Graphics_Management_CV.pdf) |
-| 💼 **Operations & General Sales** | Computer operations, client-facing support, administration, and team management. | [Download PDF](./Muhammad_Subhan_General_Sales_ComputerOperator_CV.pdf) |
+| 💻 **Software & AI Engineering** | Full-stack web app development, LLM pipeline design, Next.js/React stack. | [Download PDF]([./Muhammad_Subhan_Software_Engineer_CV.pdf](https://github.com/subhanmiaan/subhanmiaan/blob/2283eaa9b71e1619a8daf3d8aa1f5f2f91fe4bc0/Muhammad_Subhan_Software_Engineer_CV.pdf)) |
+| 🎨 **Graphics & Management** | Visual strategy, agency leadership, social media growth, AI-assisted design workflows. | [Download PDF]([./Muhammad_Subhan_Graphics_Management_CV.pdf](https://github.com/subhanmiaan/subhanmiaan/blob/2283eaa9b71e1619a8daf3d8aa1f5f2f91fe4bc0/Muhammad_Subhan_Graphics_Management_CV.pdf)) |
+| 💼 **Operations & General Sales** | Computer operations, client-facing support, administration, and team management. | [Download PDF]([./Muhammad_Subhan_General_Sales_ComputerOperator_CV.pdf](https://github.com/subhanmiaan/subhanmiaan/blob/2283eaa9b71e1619a8daf3d8aa1f5f2f91fe4bc0/Muhammad_Subhan_General_Sales_ComputerOperator_CV.pdf)) |
 
 ---
 
